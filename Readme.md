@@ -1,15 +1,13 @@
 ---
-
-title: AI-Powered Job Recommendation System
-emoji: 🤖
-colorFrom: blue
-colorTo: purple
-sdk: streamlit
+title: "AI-Powered Job Recommendation System"
+emoji: "🤖"
+colorFrom: "blue"
+colorTo: "purple"
+sdk: "streamlit"
 sdk_version: "1.31.0"
-app_file: app.py
+app_file: "app.py"
 pinned: false
--------------
-
+---
 # 🤖 AI-Powered Job Recommendation System
 
 An intelligent job recommendation system that analyzes a user's resume and suggests the most relevant job roles using Natural Language Processing (NLP) and Machine Learning techniques.
